@@ -14,7 +14,7 @@ This is a tutorial that will show you how to make the classic Simon Says game on
 
 ## Demo
 
-<a href="http://www.kellyking.me/projects/simon/" target="_blank"><img class="alignnone size-full wp-image-160 demo" alt="Simon Says game" src="https://codeplanet.io/wp-content/uploads/2014/01/simon.jpg" width="400" height="400" srcset="https://codeplanet.io/wp-content/uploads/2014/01/simon.jpg 400w, https://codeplanet.io/wp-content/uploads/2014/01/simon-150x150.jpg 150w, https://codeplanet.io/wp-content/uploads/2014/01/simon-300x300.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+<a href="http://www.kellyking.me/projects/simon/" target="_blank"><img class="alignnone size-full wp-image-160 demo" alt="Simon Says game" src="https://codeplanet.io/wp-content/uploads/2014/01/simon.jpg" srcset="https://codeplanet.io/wp-content/uploads/2014/01/simon.jpg 400w, https://codeplanet.io/wp-content/uploads/2014/01/simon-150x150.jpg 150w, https://codeplanet.io/wp-content/uploads/2014/01/simon-300x300.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></a>
 
 ## Mark-up
 

@@ -51,7 +51,7 @@ For the sake of illustration, we will be looking at how these relationships migh
 
 This demo project is a very simple web development blog that has posts, authors, & content tags (i.e. HTML, CSS, Javascript, PHP, MySQL, MongoDB).
 
-[<img class="aligncenter size-large wp-image-262" src="https://codeplanet.io/wp-content/uploads/2014/01/blog-homepage-1024x738.png" alt="Laravel Eloquent Blog Example" width="640" height="461" />](https://codeplanet.io/wp-content/uploads/2014/01/blog-homepage.png)
+[<img class="aligncenter size-large wp-image-262" src="https://codeplanet.io/wp-content/uploads/2014/01/blog-homepage-1024x738.png" alt="Laravel Eloquent Blog Example" />](https://codeplanet.io/wp-content/uploads/2014/01/blog-homepage.png)
 
 The project that we will be using can be found here: <a title="https://github.com/dtrenz/laravel-model-demo" href="https://github.com/dtrenz/laravel-model-demo" target="_blank">https://github.com/dtrenz/laravel-model-demo</a>
 
@@ -141,7 +141,7 @@ But that&#8217;s not all! Eloquent gives you a dynamic property for accessing th
 
 Next, let&#8217;s try a one-to-many relationship &#8211; this is probably the most common relationship type you will use. In our blog we have posts and each post belongs to a single author. In other words, _one_ author can have _many_ posts.
 
-[<img class="aligncenter size-large wp-image-260" src="https://codeplanet.io/wp-content/uploads/2014/01/blog-author-1024x738.png" alt="Laravel Blog Example" width="640" height="461" />](https://codeplanet.io/wp-content/uploads/2014/01/blog-author.png)
+[<img class="aligncenter size-large wp-image-260" src="https://codeplanet.io/wp-content/uploads/2014/01/blog-author-1024x738.png" alt="Laravel Blog Example" />](https://codeplanet.io/wp-content/uploads/2014/01/blog-author.png)
 
 Let&#8217;s take a look at the relevant part of the schema:
 
@@ -204,7 +204,7 @@ Pretty great, right?
 
 So, now we can get posts for a given author, but when we display a single post page, we also want to be able to display author attribution. So, how do we get the relationship to go the other way, to get the author for a given post?
 
-[<img class="aligncenter size-large wp-image-263" src="https://codeplanet.io/wp-content/uploads/2014/01/blog-single-post-1024x738.png" alt="blog-single-post" width="640" height="461" />](https://codeplanet.io/wp-content/uploads/2014/01/blog-single-post.png)
+[<img class="aligncenter size-large wp-image-263" src="https://codeplanet.io/wp-content/uploads/2014/01/blog-single-post-1024x738.png" alt="blog-single-post" />](https://codeplanet.io/wp-content/uploads/2014/01/blog-single-post.png)
 
 The answer is simple: For every model relationship you define, there is a way to define the inverse relation. For any one-to-* relationship, you can use the belongsTo method to create an inverse mapping.
 
@@ -230,7 +230,7 @@ The last relationship type we will be covering is many-to-many. In the blog we h
 
 A post can have _many_ tags, and a tag may be attributed to _many_ posts, thus we have a many-to-many relationship between posts and tags.
 
-[<img class="aligncenter size-large wp-image-264" src="https://codeplanet.io/wp-content/uploads/2014/01/blog-tag-1024x738.png" alt="Laravel Blog Example" width="640" height="461" />](https://codeplanet.io/wp-content/uploads/2014/01/blog-tag.png)
+[<img class="aligncenter size-large wp-image-264" src="https://codeplanet.io/wp-content/uploads/2014/01/blog-tag-1024x738.png" alt="Laravel Blog Example" />](https://codeplanet.io/wp-content/uploads/2014/01/blog-tag.png)
 
 Let&#8217;s take a look at the schema for tags:
 
@@ -284,7 +284,7 @@ We&#8217;ve seen how we can access and read the data through these model relatio
 
 Let&#8217;s say we are creating a new blog post, what will that entail?
 
-[<img class="aligncenter size-large wp-image-261" src="https://codeplanet.io/wp-content/uploads/2014/01/blog-create-post-1024x738.png" alt="Laravel Blog Example" width="640" height="461" />](https://codeplanet.io/wp-content/uploads/2014/01/blog-create-post.png)
+[<img class="aligncenter size-large wp-image-261" src="https://codeplanet.io/wp-content/uploads/2014/01/blog-create-post-1024x738.png" alt="Laravel Blog Example" />](https://codeplanet.io/wp-content/uploads/2014/01/blog-create-post.png)
 
 First, We&#8217;ll need to create a new Post & a new Text that will be attached to that Post.
 

@@ -15,7 +15,7 @@ categories:
 ---
 For those of you that are new to development, maintaining your project with Version Control is the industry standard and Git is the Version Control Standard.
 
-[<img class="alignnone size-full wp-image-19" alt="git-logo" src="https://codeplanet.io/wp-content/uploads/2013/07/git-logo.png" width="220" height="92" />](https://codeplanet.io/wp-content/uploads/2013/07/git-logo.png)
+[<img class="alignnone size-full wp-image-19" alt="git-logo" src="https://codeplanet.io/wp-content/uploads/2013/07/git-logo.png" />](https://codeplanet.io/wp-content/uploads/2013/07/git-logo.png)
 
 ##  What is Version Control
 

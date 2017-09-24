@@ -20,7 +20,7 @@ At first, my reaction was something like &#8220;What!? You have an app that does
 
 But then it occurred to me that maybe this isn&#8217;t so ridiculous.
 
-[<img class="alignnone size-medium wp-image-80" alt="browsers" src="https://codeplanet.io/wp-content/uploads/2013/08/browsers-300x300.jpg" width="300" height="300" srcset="https://codeplanet.io/wp-content/uploads/2013/08/browsers-300x300.jpg 300w, https://codeplanet.io/wp-content/uploads/2013/08/browsers-150x150.jpg 150w, https://codeplanet.io/wp-content/uploads/2013/08/browsers.jpg 430w" sizes="(max-width: 300px) 100vw, 300px" />](https://codeplanet.io/wp-content/uploads/2013/08/browsers.jpg)
+[<img class="alignnone size-medium wp-image-80" alt="browsers" src="https://codeplanet.io/wp-content/uploads/2013/08/browsers-300x300.jpg" srcset="https://codeplanet.io/wp-content/uploads/2013/08/browsers-300x300.jpg 300w, https://codeplanet.io/wp-content/uploads/2013/08/browsers-150x150.jpg 150w, https://codeplanet.io/wp-content/uploads/2013/08/browsers.jpg 430w" sizes="(max-width: 300px) 100vw, 300px" />](https://codeplanet.io/wp-content/uploads/2013/08/browsers.jpg)
 
 ## Typical Software Requirements
 

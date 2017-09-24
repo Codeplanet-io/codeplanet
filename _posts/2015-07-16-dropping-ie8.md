@@ -19,7 +19,7 @@ image: /wp-content/uploads/2015/07/internet_explorer.jpg
 categories:
   - JavaScript
 ---
-[<img class="aligncenter size-medium wp-image-431" src="https://codeplanet.io/wp-content/uploads/2015/07/ie_logo-300x300.png" alt="Internet Explorer Logo" width="300" height="300" />](https://codeplanet.io/wp-content/uploads/2015/07/ie_logo.png)
+[<img class="aligncenter size-medium wp-image-431" src="https://codeplanet.io/wp-content/uploads/2015/07/ie_logo-300x300.png" alt="Internet Explorer Logo" />](https://codeplanet.io/wp-content/uploads/2015/07/ie_logo.png)
 
 Here is a list of things you can start using if you drop support for IE8.
 

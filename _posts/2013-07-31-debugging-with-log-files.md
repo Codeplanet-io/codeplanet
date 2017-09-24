@@ -29,7 +29,7 @@ Similarly if I added a new website to my host and the domain wasn&#8217;t showin
 
 ## Meet Logs
 
-[<img class="alignnone size-medium wp-image-38" alt="log" src="https://codeplanet.io/wp-content/uploads/2013/07/log-300x225.png" width="300" height="225" srcset="https://codeplanet.io/wp-content/uploads/2013/07/log-300x225.png 300w, https://codeplanet.io/wp-content/uploads/2013/07/log.png 400w" sizes="(max-width: 300px) 100vw, 300px" />](https://codeplanet.io/wp-content/uploads/2013/07/log.png)
+[<img class="alignnone size-medium wp-image-38" alt="log" src="https://codeplanet.io/wp-content/uploads/2013/07/log-300x225.png" srcset="https://codeplanet.io/wp-content/uploads/2013/07/log-300x225.png 300w, https://codeplanet.io/wp-content/uploads/2013/07/log.png 400w" sizes="(max-width: 300px) 100vw, 300px" />](https://codeplanet.io/wp-content/uploads/2013/07/log.png)
 
 To see what logs you have already available on your server or computer, just check out the /var/log directory!
 
@@ -41,7 +41,7 @@ and then
 
 You should see an impressive list like this!
 
-[<img class="alignnone size-medium wp-image-46" alt="terminal" src="https://codeplanet.io/wp-content/uploads/2013/07/terminal-300x184.png" width="300" height="184" srcset="https://codeplanet.io/wp-content/uploads/2013/07/terminal-300x184.png 300w, https://codeplanet.io/wp-content/uploads/2013/07/terminal-768x471.png 768w, https://codeplanet.io/wp-content/uploads/2013/07/terminal.png 851w" sizes="(max-width: 300px) 100vw, 300px" />](https://codeplanet.io/wp-content/uploads/2013/07/terminal.png)
+[<img class="alignnone size-medium wp-image-46" alt="terminal" src="https://codeplanet.io/wp-content/uploads/2013/07/terminal-300x184.png" srcset="https://codeplanet.io/wp-content/uploads/2013/07/terminal-300x184.png 300w, https://codeplanet.io/wp-content/uploads/2013/07/terminal-768x471.png 768w, https://codeplanet.io/wp-content/uploads/2013/07/terminal.png 851w" sizes="(max-width: 300px) 100vw, 300px" />](https://codeplanet.io/wp-content/uploads/2013/07/terminal.png)
 
 Don&#8217;t be intimidated! Remember these files are all there to help you and you can ignore as many as you&#8217;d like!
 

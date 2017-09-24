@@ -9,7 +9,7 @@ permalink: /benefits-going-conferences/
 categories:
   - Uncategorized
 ---
-<a href="https://codeplanet.io/wp-content/uploads/2016/03/10038687544_70e20d923c_o.jpg" rel="attachment wp-att-896"><img class="aligncenter size-full wp-image-896" src="https://codeplanet.io/wp-content/uploads/2016/03/10038687544_70e20d923c_o.jpg" alt="10038687544_70e20d923c_o" width="4912" height="2760" /></a>
+<a href="https://codeplanet.io/wp-content/uploads/2016/03/10038687544_70e20d923c_o.jpg" rel="attachment wp-att-896"><img class="aligncenter size-full wp-image-896" src="https://codeplanet.io/wp-content/uploads/2016/03/10038687544_70e20d923c_o.jpg" alt="10038687544_70e20d923c_o" /></a>
 
 Yesterday I was on the <a href="https://twitter.com/modernwebui" data-cke-saved-href="https://twitter.com/modernwebui">@modernwebui</a> podcast talking about a range of topics. At one point we started talking about our favorite conference topics and IOT kept coming up.
 
