@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://codeplanet.io/"
+baseurl = "https://boatman-amselm-41136.netlify.com/"
 languageCode = "en-us"
 title = "Code Planet"
 theme = "hugo-cactus-theme"
