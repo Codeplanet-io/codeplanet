@@ -1,10 +1,10 @@
 # Site settings
-baseurl = "https://boatman-amselm-41136.netlify.com/"
+baseurl = "https://codeplanet.io/"
 languageCode = "en-us"
 title = "Code Planet"
 theme = "hugo-cactus-theme"
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-21008844-13"
 # Disable comments by leaving disqusShortname empty
 disqusShortname = ""
 
